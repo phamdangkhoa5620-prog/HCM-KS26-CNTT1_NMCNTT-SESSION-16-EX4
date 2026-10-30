@@ -1,0 +1,18 @@
+TỐI ƯU DUNG LƯỢNG VỚI FILES ON-DEMAND
+1. Giải pháp kỹ thuật
+- Sử dụng OneDrive Files On-Demand để lưu 500GB video trên Cloud mà không cần tải toàn bộ về laptop.
+- Bật Files On-Demand trong cài đặt OneDrive.
+- Chọn file ở trạng thái Online-only để tiết kiệm SSD.
+- Khi cần xem, nhấp đúp để tải file về.
+- Chia video theo ngày/tháng để dễ quản lý.
+- Giới hạn tốc độ Upload/Download để tránh nghẽn mạng.
+- Tránh để laptop Sleep khi đang đồng bộ; nếu mất mạng, tiếp tục đồng bộ khi kết nối lại.
+2. Báo cáo dung lượng
+- SSD laptop: 256GB.
+- Dành cho hệ điều hành: 50GB.
+- Dung lượng còn trống: 206GB.
+- Dữ liệu Cloud: 500GB.
+* So sánh:
+- Không dùng Files On-Demand: Thiếu 500 - 206 = 294GB.
+- Dùng Files On-Demand: Giả sử chỉ tải 20GB video cần thiết.
+- Tiết kiệm: 500 - 20 = 480GB dữ liệu không cần lưu trên SSD
